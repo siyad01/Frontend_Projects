@@ -1,0 +1,6 @@
+[submodule "Github/social-links-component"]
+	path = Github/social-links-component
+	url = https://github.com/siyad01/social-links-component
+[submodule "social-links-component"]
+	path = social-links-component
+	url = https://github.com/siyad01/social-links-component
